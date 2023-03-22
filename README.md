@@ -36,7 +36,7 @@
 
 <div align="center" display="flex" align-items="center">
   <h3 align="center">🌿 My stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dabisix&show_icons=true&theme=midnight-purple" width=40%>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dabisix&show_icons=true&theme=midnight-purple" width=50%>
     <!-- ![Dabisix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dabisix&show_icons=true&theme=midnight-purple) -->
   <a href="https://solved.ac/yukdb66" width=30%>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yukdb66">
