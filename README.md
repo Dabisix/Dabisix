@@ -48,7 +48,7 @@
 
 ### 🌐 Blog
 <a href="https://dabisix.github.io">
-<img src="https://img.shields.io/badge/Git Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp 
 
 
 
